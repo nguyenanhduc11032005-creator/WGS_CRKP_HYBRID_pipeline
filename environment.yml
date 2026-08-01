@@ -1,0 +1,17 @@
+name: wgs_crkp
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastqc
+  - fastp
+  - nanoplot
+  - nanostat
+  - porechop
+  - filtlong
+  - seqkit
+  - multiqc
+  - unicycler  # Đã thêm sẵn cho bước assembly tiếp theo
+  - flye       # Đã thêm sẵn cho assembler thay thế
+  - medaka     # Để đánh bóng (polishing) kết quả assembly

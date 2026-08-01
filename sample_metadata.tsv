@@ -1,0 +1,20 @@
+sample_accession	 sample_name	 strain_group	 phenotype   	 parent_sample	 run_illumina	 run_nanopore	 hybrid_available	 include_wgs	 include_phylogeny	 include_snippy	 notes
+SAMN47572891    	 Kpn-3      	 WildType    	 WT          	 NA           	 SRR32857445 	 SRR32857434 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572892    	 Kpn-7      	 WildType    	 WT          	 NA           	 SRR32857444 	 SRR32857432 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572893    	 Kpn-9      	 WildType    	 WT          	 NA           	 SRR32857433 	 SRR32857431 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572894    	 Kpn-12     	 WildType    	 WT          	 NA           	 SRR32857422 	 SRR32857430 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572895    	 Kpn-15     	 WildType    	 WT          	 NA           	 SRR32857413 	 SRR32857429 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572902    	 Kpn-17     	 WildType    	 WT          	 NA           	 SRR32857442 	 SRR32857421 	 YES             	 YES        	 YES              	 YES           	 Parent of Kpn-17.11
+SAMN47572904    	 Kpn-24     	 WildType    	 WT          	 NA           	 SRR32857440 	 SRR32857419 	 YES             	 YES        	 YES              	 YES           	 Parent of Kpn-24.4
+SAMN47572896    	 Kpn-26     	 WildType    	 WT          	 NA           	 SRR32857412 	 SRR32857428 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572897    	 Kpn-28     	 WildType    	 WT          	 NA           	 SRR32857411 	 SRR32857427 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572898    	 Kpn-29     	 WildType    	 WT          	 NA           	 SRR32857410 	 SRR32857426 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572899    	 Kpn-35     	 WildType    	 WT          	 NA           	 SRR32857409 	 SRR32857425 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572900    	 Kpn-59     	 WildType    	 WT          	 NA           	 SRR32857408 	 SRR32857424 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572901    	 Kpn-62     	 WildType    	 WT          	 NA           	 SRR32857443 	 SRR32857423 	 YES             	 YES        	 YES              	 NO            	 Clinical isolate
+SAMN47572906    	 Kpn-72     	 WildType    	 WT          	 NA           	 SRR32857438 	 SRR32857417 	 YES             	 YES        	 YES              	 YES           	 Parent of Kpn-72.11
+SAMN47572908    	 Kpn-73     	 WildType    	 WT          	 NA           	 SRR32857436 	 SRR32857415 	 YES             	 YES        	 YES              	 YES           	 Parent of Kpn-73.9
+SAMN47572903    	 Kpn-17.11  	 Mutant      	 MEM_Exposure	 Kpn-17       	 SRR32857441 	 SRR32857420 	 YES             	 YES        	 YES              	 YES           	 Meropenem evolved mutant
+SAMN47572905    	 Kpn-24.4   	 Mutant      	 MEM_Exposure	 Kpn-24       	 SRR32857439 	 SRR32857418 	 YES             	 YES        	 YES              	 YES           	 Meropenem evolved mutant
+SAMN47572907    	 Kpn-72.11  	 Mutant      	 MEM_Exposure	 Kpn-72       	 SRR32857437 	 SRR32857416 	 YES             	 YES        	 YES              	 YES           	 Meropenem evolved mutant
+SAMN47572909    	 Kpn-73.9   	 Mutant      	 MEM_Exposure	 Kpn-73       	 SRR32857435 	 SRR32857414 	 YES             	 YES        	 YES              	 YES           	 Meropenem evolved mutant

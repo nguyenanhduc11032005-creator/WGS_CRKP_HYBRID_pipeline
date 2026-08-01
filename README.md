@@ -19,6 +19,7 @@ The pipeline integrates seven sequential modules operating entirely within a Lin
 *   **`code/`**: The core directory containing all scripts.
     *   `HYBRIDS_PIPELINE/`: Sequential Shell scripts (`00` to `10`) for automated data processing, QC, hybrid assembly, annotation, and variant calling.
     *   `DATA_VISUALIZATION/`: R scripts used to generate the statistical figures (e.g., PCN amplification, resistome profiling heatmaps, porin status) presented in the final report.
+*   **`Genomic_Pipeline_Report_Final.docx.pdf`**: A comprehensive final report detailing the methodology, results, and discussion of the WGS_CRKP_HYBRID pipeline. It provides in-depth assessments of the combined impact of increased *bla*OXA-48 or *bla*CTX-M-15 plasmid copy numbers and OmpK36 porin inactivation on carbapenem resistance.
 *   **`environment.yml`**: Conda environment configuration file to reproduce the exact software dependencies used in this study.
 *   **`sample_metadata.tsv`** & **`accessions.csv`**: Detailed metadata and accession numbers for the 15 clinical isolates and 4 laboratory-derived mutants analyzed
 *   **`pairs.tsv`**: Configuration file defining native-mutant isolate pairs for comparative mutational and PCN analysis.
